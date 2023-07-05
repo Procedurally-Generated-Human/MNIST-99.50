@@ -4,7 +4,7 @@ Played around with MNIST until i got >99.50% accuracy. The model I used is a bee
 <br>
 <br>
 
-Neural Network Architecture (BeefyLeNet):
+Neural network architecture (BeefyLeNet):
 <br>
 <br>
 ![Model Schema](https://github.com/Procedurally-Generated-Human/MNIST-99.50/blob/main/AdvancedLeNet.png)
